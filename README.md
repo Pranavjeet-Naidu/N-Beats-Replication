@@ -37,3 +37,4 @@ It is viable to additionally constrain a DL model to force it to decompose its f
 ### Usage
 1. To run the project, clone the repository and install the dependencies as described above.
 2. Run the Jupyter notebook or Python script provided in the repository.
+special thanks to my teammate : for his immense contribution .
